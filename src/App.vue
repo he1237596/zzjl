@@ -9,8 +9,6 @@
 			<mt-button type="danger">danger</mt-button>
     </div>-->
 
-123123213123
-
     <router-view/>
   </div>
 </template>
