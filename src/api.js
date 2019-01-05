@@ -89,4 +89,5 @@ var api = {
     // vip_price: _api_root + "app/user/getUpgradeDetail"
   },
 };
+console.log(123);
 export default api;
