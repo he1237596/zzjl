@@ -63,10 +63,9 @@ module.exports = {
 //              ]
 //        }
 
-            // sass: {
-	            // 全局注入通用样式
-                // data: fs.readFileSync('./src/assets/variables.scss', 'utf-8')
-            // }
+               sass: {
+                   data: fs.readFileSync('./src/assets/common.scss', 'utf-8')
+               }
         }
     },
 };
